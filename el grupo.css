@@ -1,0 +1,22 @@
+.el-grupo {
+    font-size: 12px;
+}
+
+.persona {
+    display: flex;
+    justify-content: space-between;
+}
+
+.persona h3 {
+    margin: 0;
+    font-weight: normal;
+    font-size: 16px;
+    color: #333;
+}
+
+.persona p {
+    margin: 0;
+    font-size: 14px;
+    color: #666;
+}
+

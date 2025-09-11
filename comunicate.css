@@ -1,0 +1,28 @@
+.contacto {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.contacto form {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+}
+
+.datos p {
+    margin: 5px 0;
+}
+
+.contacto label {
+    margin-top: 10px;
+}
+
+.contacto input, .contacto textarea {
+    padding: 8px;
+    margin-top: 5px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
