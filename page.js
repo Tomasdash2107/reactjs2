@@ -4,7 +4,6 @@ export default function home() {
     return (
         <main className='holder'>
             <div className='homeimg'>
-                //aca va la imagen
             </div>
             <div className='columnas'>
                 <div className='bienvenidos'>

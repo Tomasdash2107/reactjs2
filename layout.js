@@ -14,7 +14,6 @@ export default function RootLayout({ children }) {
         <header>
           <div className='header'>
             <div className='logo'>
-              //aca va la imagen
               <h1>Empresas X</h1>
             </div>
           </div>
